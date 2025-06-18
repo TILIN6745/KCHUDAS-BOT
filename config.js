@@ -12,12 +12,12 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 global.owner = [
-["5218336105471", 'Tilin', true], //el tilin
-["5218336105471", 'gay', true], //es gay
+["5215538375800", 'Tilin', true], //el tilin
+["5215538375800", 'gay', true], //es gay
 ["5218336105471"]]
 
-global.mods = ["5218336105471"]
-global.prems = ["5218336105471"]
+global.mods = ["5215538375800"]
+global.prems = ["5215538375800"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
@@ -112,9 +112,9 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["5218336105471", 'tilin', 1], 
-["5218336105471", 'tilinn', 1],  
-["5218336105471", 'Tilins', 1]]
+["5215538375800", 'tilin', 1], 
+["5215538375800", 'tilinn', 1],  
+["5215538375800", 'Tilins', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)

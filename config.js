@@ -12,12 +12,12 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 global.owner = [
-["5215538375800", 'Tilin', true], //el tilin
-["5215538375800", 'gay', true], //es gay
+["5215523076336", 'chinita', true], //el tilin
+["5215523076336", 'chinita', true], //es gay
 ["5218336105471"]]
 
-global.mods = ["5215538375800"]
-global.prems = ["5215538375800"]
+global.mods = ["5215523076336"]
+global.prems = ["5215523076336"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
@@ -112,9 +112,9 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["5215538375800", 'tilin', 1], 
-["5215538375800", 'tilinn', 1],  
-["5215538375800", 'Tilins', 1]]
+["5215523076336", 'chinita', 1], 
+["5215523076336", 'chinita', 1],  
+["5215523076336", 'chinita', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -122,8 +122,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "𝑭𝒊𝒔𝒉 𝑩𝒐𝒕"
-global.author = "𝑭𝒊𝒔𝒉 𝑩𝒐𝒕"
+global.packname = "𝐄𝐬𝐝𝐞𝐚𝐭𝐡 𝐁𝐨𝐭 💗"
+global.author = "𝐄𝐬𝐝𝐞𝐚𝐭𝐡 𝐁𝐨𝐭 💗"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -131,7 +131,7 @@ global.author = "𝑭𝒊𝒔𝒉 𝑩𝒐𝒕"
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "𝑭𝒊𝒔𝒉 𝑩𝒐𝒕"
+global.gt = "𝐄𝐬𝐝𝐞𝐚𝐭𝐡 𝐁𝐨𝐭 💗"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -157,9 +157,9 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝑭𝒊𝒔𝒉 𝑩𝒐𝒕"
-global.igfg = "𝑭𝒊𝒔𝒉 𝑩𝒐𝒕"
-global.nomorown = "5215538375800"
+global.wm = "𝐄𝐬𝐝𝐞𝐚𝐭𝐡 𝐁𝐨𝐭 💗"
+global.igfg = "𝐄𝐬𝐝𝐞𝐚𝐭𝐡 𝐁𝐨𝐭 💗"
+global.nomorown = "5215523076336"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 

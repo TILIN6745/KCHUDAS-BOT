@@ -12,12 +12,12 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 global.owner = [
-["5219616592262", 'By ulixs', true], //el tilin
-["5219616592262", 'By ulixs', true], //es gay
-["5219616592262"]]
+["5217711721284", 'Aislinn', true], //el tilin
+["5217711721284", 'Aislinn', true], //es gay
+["5217711721284"]]
 
-global.mods = ["5219616592262"]
-global.prems = ["5219616592262"]
+global.mods = ["5217711721284"]
+global.prems = ["5217711721284"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
@@ -112,9 +112,9 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["5219616592262", 'By ulixs', 1], 
-["5219616592262", 'By ulixs', 1],  
-["5219616592262", 'By ulixs', 1]]
+["5217711721284", 'Aislinn', 1], 
+["5217711721284", 'Aislinn', 1],  
+["5217711721284", 'Aislinn', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -122,8 +122,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "𝗦𝗮𝗶𝗸𝗶 𝗕𝗼𝘁"
-global.author = "𝗦𝗮𝗶𝗸𝗶 𝗕𝗼𝘁"
+global.packname = "𝐀𝐈𝐒 𝐁𝐎𝐓"
+global.author = "𝐀𝐈𝐒 𝐁𝐎𝐓"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -131,7 +131,7 @@ global.author = "𝗦𝗮𝗶𝗸𝗶 𝗕𝗼𝘁"
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "𝗦𝗮𝗶𝗸𝗶 𝗕𝗼𝘁"
+global.gt = "𝐀𝐈𝐒 𝐁𝐎𝐓"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -157,8 +157,8 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝗦𝗮𝗶𝗸𝗶 𝗕𝗼𝘁"
-global.igfg = "𝗦𝗮𝗶𝗸𝗶 𝗕𝗼𝘁"
+global.wm = "𝐀𝐈𝐒 𝐁𝐎𝐓"
+global.igfg = "𝐀𝐈𝐒 𝐁𝐎𝐓"
 global.nomorown = "5219616592262"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •

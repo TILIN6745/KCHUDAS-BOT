@@ -122,8 +122,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "𝐀𝐈𝐒 𝐁𝐎𝐓"
-global.author = "𝐀𝐈𝐒 𝐁𝐎𝐓"
+global.packname = "𝗞𝗰𝗵𝘂𝗱@𝗦 𝗕𝗼𝘁"
+global.author = "𝗞𝗰𝗵𝘂𝗱@𝗦 𝗕𝗼𝘁"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -131,7 +131,7 @@ global.author = "𝐀𝐈𝐒 𝐁𝐎𝐓"
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "𝐀𝐈𝐒 𝐁𝐎𝐓"
+global.gt = "𝗞𝗰𝗵𝘂𝗱@𝗦 𝗕𝗼𝘁"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -157,8 +157,8 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝐀𝐈𝐒 𝐁𝐎𝐓"
-global.igfg = "𝐀𝐈𝐒 𝐁𝐎𝐓"
+global.wm = "𝗞𝗰𝗵𝘂𝗱@𝗦 𝗕𝗼𝘁"
+global.igfg = "𝗞𝗰𝗵𝘂𝗱@𝗦 𝗕𝗼𝘁"
 global.nomorown = "5219616592262"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •

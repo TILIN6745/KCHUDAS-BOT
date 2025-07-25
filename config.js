@@ -12,12 +12,12 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 global.owner = [
-["5217711721284", 'Aislinn', true], //el tilin
-["5217711721284", 'Aislinn', true], //es gay
-["5217711721284"]]
+["56935582935", 'Aislinn', true], //el tilin
+["56935582935", 'Aislinn', true], //es gay
+["56935582935"]]
 
-global.mods = ["5217711721284"]
-global.prems = ["5217711721284"]
+global.mods = ["56935582935"]
+global.prems = ["56935582935"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
@@ -112,9 +112,9 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["5217711721284", 'Aislinn', 1], 
-["5217711721284", 'Aislinn', 1],  
-["5217711721284", 'Aislinn', 1]]
+["56935582935", 'Aislinn', 1], 
+["56935582935", 'Aislinn', 1],  
+["56935582935", 'Aislinn', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -159,7 +159,7 @@ global.exito = eg
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 global.wm = "𝗞𝗰𝗵𝘂𝗱@𝗦 𝗕𝗼𝘁"
 global.igfg = "𝗞𝗰𝗵𝘂𝗱@𝗦 𝗕𝗼𝘁"
-global.nomorown = "5219616592262"
+global.nomorown = "56935582935"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
